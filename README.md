@@ -1,3 +1,7 @@
+# pyMatrixEQTL
+to understand what's going on inside Matrix eQTL, use Python to write the functions
+
+
 # Matrix eQTL: Ultra Fast eQTL Analysis via Large Matrix Operations
 
 Matrix eQTL is designed for fast eQTL analysis on large datasets.
